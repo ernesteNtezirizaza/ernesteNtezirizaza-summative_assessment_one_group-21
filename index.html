@@ -30,9 +30,14 @@
                 <input type="text" id="eventDate" name="eventDate" required>
                 <span class="error-message" id="dateError"></span>
             </div>
-            
+            <div class="form-group">
+                <label for="tickets">Number of Tickets:</label>
+                <input type="number" id="tickets" name="tickets" required min="1" max="10">
+                <span class="error-message" id="ticketsError"></span>
             <button type="submit">Register</button>
-            <div class="success-message" id="successMessage"></div>
+            
+</div>
+
         </form>
     </div>
     <script src="scripts/main.js"></script>
