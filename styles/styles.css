@@ -34,7 +34,7 @@ input[type="text"], input[type="email"], input[type="number"] {
     width: 100%;
     padding: 10px;
     border: 1px solid darkblue;
-    border-radius: 2px;
+    border-radius: 5px;
 }
 
 button {
