@@ -13,7 +13,7 @@ body {
     padding: 20px;
     border-radius: 5px;
     width: 500px;
-    max-width: 500px;
+    max-width: 600px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     /** height: 500px; */
 }
@@ -34,7 +34,7 @@ input[type="text"], input[type="email"], input[type="number"] {
     width: 100%;
     padding: 10px;
     border: 1px solid darkblue;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 
 button {
