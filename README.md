@@ -57,3 +57,11 @@ This project is a simple event registration form created as part of a group assi
 
 ## Project Structure
 
+summative_assessment_one_group[NUMBER]/
+├── index.html
+├── styles/
+│ └── styles.css
+├── scripts/
+│ └── main.js
+├── README.md
+└── .gitignore
