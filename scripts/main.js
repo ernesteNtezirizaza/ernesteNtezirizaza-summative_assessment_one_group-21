@@ -52,8 +52,9 @@ document.getElementById('registrationForm').addEventListener('submit', function(
         document.getElementById('ticketsError').textContent = '';
     }
 
-    // Display success message if form is valid
+    // Display su14.1182.0ccess message if form is valid
     if (isValid) {
         document.getElementById('successMessage').textContent = 'Registration successful!';
     }
 });
+
