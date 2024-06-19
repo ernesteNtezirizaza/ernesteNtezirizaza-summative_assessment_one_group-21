@@ -50,7 +50,7 @@ input[type="text"], input[type="email"], input[type="number"] {
 button {
     width: 100%;
     padding: 12px;
-    background-color: green;
+    background-color: #28a745;
     color: white;
     border: none;
     border-radius: 5px;
