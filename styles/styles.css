@@ -38,7 +38,7 @@ input[type="text"], input[type="email"], input[type="number"] {
 }
 
 button {
-    width: 70%;
+    width: 100%;
     padding: 10px;
     background-color: green;
     color: white;
