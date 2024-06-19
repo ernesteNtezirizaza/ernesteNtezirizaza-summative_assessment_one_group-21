@@ -32,13 +32,13 @@ This project is a simple event registration form created as part of a group assi
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/summative_assessment_one_group[NUMBER].git
+    git clone https://github.com/ernesteNtezirizaza/summative_assessment_one_group-21.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd summative_assessment_one_group[NUMBER]
+    cd summative_assessment_one_group-21
     ```
 
 ## Usage
