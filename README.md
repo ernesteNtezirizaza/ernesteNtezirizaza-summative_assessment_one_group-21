@@ -10,7 +10,6 @@ This project is a simple event registration form created as part of a group assi
 - [Usage](#usage)
 - [Validation Rules](#validation-rules)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -79,7 +78,3 @@ This project is a simple event registration form created as part of a group assi
     ```
 
 6. Create a pull request on GitHub.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
