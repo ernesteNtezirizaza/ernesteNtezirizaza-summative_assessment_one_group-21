@@ -54,3 +54,32 @@ This project is a simple event registration form created as part of a group assi
 - **Phone Number:** Must follow the format (123) 456-7890.
 - **Event Date:** Must be a valid date in MM/DD/YYYY format.
 - **Number of Tickets:** Must be a number between 1 and 10.
+
+
+## Contributing
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix:
+
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+
+3. Make your changes.
+4. Commit your changes with a descriptive message:
+
+    ```bash
+    git commit -m "Add feature: your feature description"
+    ```
+
+5. Push to the branch:
+
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+
+6. Create a pull request on GitHub.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
